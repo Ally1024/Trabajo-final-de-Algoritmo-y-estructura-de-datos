@@ -1,1 +1,3 @@
 # Trabajo-final-de-Algoritmo-y-estructura-de-datos
+
+Somos  Allysson Palma, Nicole Ramos y Andres Porras, en este repositorio se encuentra nuestro trabajo final de la calse algoritmo y estructura de datos  el cual consiste en  un sistema de impresión de notas  en python el cual   gestionará una base de datos simulada de registros de estudiantes, donde cada registro tiene datos del estudiante  por ejemplo CIF,edad y su nota correspondiente. La aplicación implementará los algoritmos de Radix Sort para ordenar las notas (por ejemplo, en orden ascendente) y utilizará búsqueda binaria para localizar rápidamente la nota de un estudiante específico en la lista ordenada.
